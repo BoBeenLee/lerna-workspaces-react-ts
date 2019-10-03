@@ -2,7 +2,7 @@
   "name": "@test/shared",
   "description": "Shared components",
   "private": false,
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Naresh Bhatia",
   "license": "MIT",
   "scripts": {
