@@ -1,6 +1,6 @@
 {
   "name": "app",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "private": false,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@test/shared": "^1.0.7",
+    "@test/shared": "^1.0.8",
     "react": "16.8.6",
     "react-native": "0.60.5",
     "stylelint": "^9.10.1",
