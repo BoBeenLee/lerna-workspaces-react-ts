@@ -1,6 +1,6 @@
 {
   "name": "myapp",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "private": true,
   "scripts": {
     "start": "react-scripts-ts start",
@@ -9,7 +9,7 @@
     "eject": "react-scripts-ts eject"
   },
   "dependencies": {
-    "@test/shared": "^1.0.10",
+    "@test/shared": "^1.0.11",
     "react": "16.8.6",
     "react-dom": "16.8.6"
   },
