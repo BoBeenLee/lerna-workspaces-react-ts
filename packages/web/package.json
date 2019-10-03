@@ -1,7 +1,7 @@
 {
   "name": "myapp",
   "version": "1.0.1",
-  "private": true,
+  "private": false,
   "scripts": {
     "start": "react-scripts-ts start",
     "build": "react-scripts-ts build",
